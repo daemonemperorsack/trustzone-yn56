@@ -1,4 +1,4 @@
-
+Trust.Zone high-speed App: port-forwarding & dynamic-IP is the best Trust.Zone app, featuring port-forwarding and dynamic-IP. Secure, fast, and optimized for privacy.
 
 
 
